@@ -1,2 +1,8 @@
-# slide
-Inclined plane simulator made with P4's assembly
+# Slide
+When the cpu is rotated, a ball moves moves with a certain velocity, respecting gravity.<br />
+
+# How to use
+Copy and paste the content of the .txt file to a P4 simulator or open the .as file.<br />
+
+# Notes
+The pdf file includes a detailed explanation of the project and some known bugs.<br />
